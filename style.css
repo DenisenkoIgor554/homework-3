@@ -1,0 +1,128 @@
+.background{
+    position: absolute;
+    left: 45%;
+    padding-top: 10px;
+    top: 52px;  
+}
+
+
+.body1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin-left: 33%;
+    margin-top: 40px;
+    margin-top: 40px;
+    position: absolute;
+    top: 30px;
+}
+
+
+body p {
+    color:rgb(123, 123, 123);
+}
+
+.header{
+    display: flex;
+    align-items: baseline;
+}
+
+.button1 {
+    background-color: rgba(24, 144, 255, 1);
+    border-color: rgba(24, 144, 255, 1);
+    color: aliceblue;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    padding: 15px 30px;
+    width: 260px;
+    height: 50px;
+    font-size: 18px;
+    margin-top: 30px;
+}
+.button1:hover {
+    background-color: #215ab7;
+}
+
+
+
+
+.block{
+    padding-bottom: 0px;
+    margin-left: 50px;
+}
+
+.imeg {
+        display: flex;
+        align-items: center;
+        width: 440px;
+        height: 90px;
+        padding-bottom: 30px;
+}
+
+.imeg-icone1 {
+    background-color:rgba(255, 236, 199, 1);
+    height: 90px;
+    width: 90px;
+    border-radius: 10px;
+}
+.imeg-icone2 {
+    background-color:rgba(199, 235, 255, 1);
+    height: 90px;
+    width: 90px;
+    border-radius: 10px;
+}
+.imeg-icone3 {
+    background-color:rgba(255, 253, 199, 1);
+    height: 90px;
+    width: 90px;
+    border-radius: 10px;
+}
+.imeg-icone4 {
+    background-color:rgba(199, 255, 228, 1);
+    height: 90px;
+    width: 90px;
+    border-radius: 10px;
+}
+
+.imeg-text{
+    font-size: 14px;
+    padding-left: 20px;
+    padding-top: 12px;
+}
+
+
+.button {
+    padding-top: 24px;
+    margin-left: 50px;
+}
+
+
+.button2 {
+    background-color: rgba(24, 144, 255, 1);
+    border-color: rgba(24, 144, 255, 1);
+    color: aliceblue;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    padding: 15px 30px;
+    width: 440px;
+    height: 50px;
+    font-size: 18px;
+    margin-left: 50px;
+    margin-top: 22px;
+}
+.button2:hover {
+    background-color: #215ab7;
+}
+
+.footer{
+    margin-left: 50px;
+    margin-bottom: 30px;
+}
+
+.rectangle {
+    width: 500px; 
+    height: 1px; 
+    background-color: rgba(223, 225, 228, 1); 
+  }
+
